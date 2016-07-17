@@ -13,8 +13,9 @@ namespace MFST
 	{
 		lenta_position = plenta_position;
 		rc_step = prc_step;
-		nrule = pnrule;
 		nrule_chain = pnrule_chain;
+		nrule = pnrule;
+		
 	}
 
 }

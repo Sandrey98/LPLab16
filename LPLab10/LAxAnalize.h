@@ -8,7 +8,6 @@
 #include "FST.h"
 
 namespace LA {
-
 	struct LEX {
 		LT::LexTable lextable;
 		IT::IdTable idtable;

@@ -1,8 +1,13 @@
-﻿Сборка начата 16.07.2016 2:17:04.
+﻿Сборка начата 17.07.2016 17:28:54.
      1>Проект "D:\БГТУ\ЯП\ЛАБЫ\лаб16\LPLab10\LPLab10.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
-         D:\БГТУ\Visual 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\LPLab10.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt sanalize.cpp
-         sanalize.cpp
+         D:\БГТУ\Visual 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\LPLab10.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt LAnalize.cpp LPLab13_NICK.cpp Mfst.cpp
+         Mfst.cpp
+         Создание кода...
+         Компиляция...
+         LPLab13_NICK.cpp
+         LAnalize.cpp
+         Создание кода...
        Link:
          D:\БГТУ\Visual 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ\ЯП\ЛАБЫ\лаб16\Debug\LPLab10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\БГТУ\ЯП\ЛАБЫ\лаб16\Debug\LPLab10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ\ЯП\ЛАБЫ\лаб16\Debug\LPLab10.lib" /MACHINE:X86 Debug\Error.obj
          Debug\FST.obj
@@ -23,4 +28,4 @@
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:00.98
+Затраченное время: 00:00:08.91
