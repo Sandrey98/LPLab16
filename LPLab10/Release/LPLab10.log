@@ -1,0 +1,41 @@
+﻿Сборка начата 26.05.2016 14:25:12.
+     1>Проект "D:\БГТУ\ЯП\ЛАБЫ\лаб15\LPLab15\LPLab14\LPLab10\LPLab10.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\БГТУ\Visual 2015\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Release\LPLab10.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\БГТУ\Visual 2015\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Release\LPLab10.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\лаб14\LPLab14\LPLab10\FST.cpp" Error.cpp In.cpp IT.cpp LAnalize.cpp Log.cpp LPLab13_NICK.cpp LT.cpp Parm.cpp PolishNotation.cpp
+         FST.cpp
+     1>..\..\..\..\лаб14\LPLab14\LPLab10\FST.cpp(41): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         Error.cpp
+         In.cpp
+         IT.cpp
+         LAnalize.cpp
+     1>LAnalize.cpp(449): warning C4018: <: несоответствие типов со знаком и без знака
+     1>LAnalize.cpp(559): warning C4018: <: несоответствие типов со знаком и без знака
+         Log.cpp
+         LPLab13_NICK.cpp
+         LT.cpp
+         Parm.cpp
+         PolishNotation.cpp
+       Link:
+         D:\БГТУ\Visual 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ\ЯП\ЛАБЫ\лаб15\LPLab15\LPLab14\Release\LPLab10.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\БГТУ\ЯП\ЛАБЫ\лаб15\LPLab15\LPLab14\Release\LPLab10.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ\ЯП\ЛАБЫ\лаб15\LPLab15\LPLab14\Release\LPLab10.lib" /MACHINE:X86 /SAFESEH Release\FST.obj
+         Release\Error.obj
+         Release\In.obj
+         Release\IT.obj
+         Release\LAnalize.obj
+         Release\Log.obj
+         Release\LPLab13_NICK.obj
+         Release\LT.obj
+         Release\Parm.obj
+         Release\PolishNotation.obj
+         Release\stdafx.obj
+         Создание кода
+     1>d:\бгту\яп\лабы\лаб15\lplab15\lplab14\lplab10\polishnotation.cpp(117): warning C4715: PN::prior: значение возвращается не при всех путях выполнения
+         All 320 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         LPLab10.vcxproj -> D:\БГТУ\ЯП\ЛАБЫ\лаб15\LPLab15\LPLab14\Release\LPLab10.exe
+     1>Сборка проекта "D:\БГТУ\ЯП\ЛАБЫ\лаб15\LPLab15\LPLab14\LPLab10\LPLab10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:10.92
