@@ -98,7 +98,7 @@
     <ClCompile Include="Mfst.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
-    <ClCompile Include="sanalize.cpp">
+    <ClCompile Include="SinAnalize.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
   </ItemGroup>
