@@ -8,11 +8,12 @@ namespace MFST
 {
 	struct MfstState 
 	{
-		short lenta_posotion;
+		short lenta_position;
 		short nrulechain;
 		MFSTSTSTACK st;
 		MfstState();
 		MfstState(short pposition, MFSTSTSTACK pst, short pnrulechain);
+		
 	};
 	struct Mfst 
 	{
